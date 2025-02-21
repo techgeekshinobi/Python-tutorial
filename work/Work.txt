@@ -2,3 +2,5 @@
 2. Cube of the numbers in a list
 3. Filter all the even numbers
 4. create an array of any number of strings and extract second character
+
+
