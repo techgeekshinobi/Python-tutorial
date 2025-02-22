@@ -3,4 +3,6 @@
 3. Filter all the even numbers
 4. create an array of any number of strings and extract second character
 
+#pattern printing:
+print the above patterns using concept of loops.
 
