@@ -15,3 +15,16 @@ Lists:
 6.Write a Python program to reverse a list
 7.An Armstrong number is a number where the sum of its digits each raised to the power of the number of digits equals the number itself.Write a program to check whether a number is armstrong or not
     Ex: 153= 1^3+5^3+3^3= 1+125+27 = 153
+
+Tuples:
+1. Create a tuple using input method, add elements to it and access them
+2. Count the occurrences of an element in a tuple
+3. create a tuple , modify(add/delete) elements to it and display the new tuple
+4. check if an element exists in a tuple using user input
+5. Unpack a tuple into separate variables
+6. Merge two Tuples
+7. Create a tuple. find the index of an element in a tuple
+8. swap two Tuples
+9. find max, min ,count without using built-in function of a tuple
+10. reverse a tuple without using slicing or reversed()
+11. remove an element without using remove or converting to a list
