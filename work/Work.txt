@@ -27,4 +27,4 @@ Tuples:
 8. swap two Tuples
 9. find max, min ,count without using built-in function of a tuple
 10. reverse a tuple without using slicing or reversed()
-11. remove an element without using remove or converting to a list
+11. remove an element without using remove() method or converting to a list
