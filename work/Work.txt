@@ -28,3 +28,21 @@ Tuples:
 9. find max, min ,count without using built-in function of a tuple
 10. reverse a tuple without using slicing or reversed()
 11. remove an element without using remove() method or converting to a list
+
+
+Sets:
+
+Write a program that takes a list of numbers as input and returns a list with duplicates removed using sets.
+Write a program to find the common elements between two sets.
+Write a program that performs union, intersection, difference, and symmetric difference on two sets.
+Write a program that checks if one set is a subset of another.
+Write a program that takes a string as input and returns a set of unique characters.
+
+Dictionary:
+
+Write a program that takes a sentence as input and counts the frequency of each word using a dictionary.
+Write a program to sort a dictionary by its values in ascending and descending order.
+Write a program to merge two dictionaries and sum values for common keys.
+Write a program to swap keys and values in a dictionary.
+Write a program that takes a list of numbers and finds the most frequently occurring element using a dictionary.
+
