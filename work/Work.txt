@@ -46,3 +46,10 @@ Write a program to merge two dictionaries and sum values for common keys.
 Write a program to swap keys and values in a dictionary.
 Write a program that takes a list of numbers and finds the most frequently occurring element using a dictionary.
 
+functions:
+
+Write a program using method Palin() to check whether a string is palindrome or not. EX: MADAM,ARORA,ABBA etc.
+Write a program using method sumdigit() to calculate the sum of the digits
+Write a program using method Palin() to check whether a number is palindrome or not. EX: 
+Write a program using method factorial() to calculate the factorial of a number using recursion
+Write a program to print the first ten numbers of a fibonacci sequence . EX: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
