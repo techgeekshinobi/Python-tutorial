@@ -53,3 +53,12 @@ Write a program using method sumdigit() to calculate the sum of the digits
 Write a program using method Palin() to check whether a number is palindrome or not. EX: 
 Write a program using method factorial() to calculate the factorial of a number using recursion
 Write a program to print the first ten numbers of a fibonacci sequence . EX: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+
+OOPS:
+Write a program to create a class Car with attributes brand and model. Create an object and display its attributes.
+Write a program to create a class BankAccount with a private balance variable. Provide methods to deposit and withdraw money safely.
+Write a program where Dog class inherits from Animal class and overrides the make_sound method.
+Write a program where Rectangle and Circle classes implement a shape_area method differently.
+Write a program using the ABC module to create an abstract class Vehicle with an abstract method start().
+
